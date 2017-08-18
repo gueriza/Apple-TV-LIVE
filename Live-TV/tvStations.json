@@ -26,11 +26,6 @@
              "name": "Metro TV"
              },
              {
-             "hlsURL": "https://www.youtube.com/watch?v=DbPVimAVQ3s",
-             "imageURL": "http://www.netmedia.co.id/assets/img/logo1.png",
-             "name": "NET TV"
-             },
-             {
              "hlsURL": "https://livestream-hybrid.akamaized.net/live/smil:ochannel.smil/playlist.m3u8",
              "imageURL": "http://skylbs.tv/wp-content/themes/skeleton/images/package_logo/2_Indo_CH/O-Channel.png",
              "name": "O Channel"
